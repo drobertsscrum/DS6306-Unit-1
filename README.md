@@ -1,5 +1,4 @@
-# DS6306-Unit-1
-## Sub header  
+# DS6306-Unit-1   
 Intro to Git Hub  
 One  
 Two  
